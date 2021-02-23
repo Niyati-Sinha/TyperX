@@ -45,7 +45,7 @@ You can change the typing speed from this dropdown
 You can change the countdown time from this dropdown 
 ![image](https://user-images.githubusercontent.com/50911878/99960834-6a416a80-2db3-11eb-9346-760332215abf.png)
 
-You can also set Human Mode for human typing speed ad also enable or disable word wrap from here 
+You can also set Human Mode for human typing speed and also enable or disable word wrap from here 
 ![image](https://user-images.githubusercontent.com/50911878/99961037-bf7d7c00-2db3-11eb-8b1c-a7cdff5a1e48.png)
 
 Progress bar will give you the progress of typing ![image](https://user-images.githubusercontent.com/50911878/99961275-1d11c880-2db4-11eb-8e92-bc1f5e11b948.png)
